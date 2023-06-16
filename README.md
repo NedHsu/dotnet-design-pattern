@@ -18,8 +18,8 @@
 
 ## 行為型模式（Behavioral Patterns）
 - [X] 策略模式（Strategy Pattern）
-- [ ] 狀態模式（State Pattern）
-- [ ] 觀察者模式（Observer Pattern）
+- [X] 狀態模式（State Pattern）
+- [X] 觀察者模式（Observer Pattern）
 - [ ] 命令模式（Command Pattern）
 - [ ] 中介者模式（Mediator Pattern）
 - [ ] 解釋器模式（Interpreter Pattern）
