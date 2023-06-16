@@ -8,12 +8,13 @@
 - [X] 抽象工廠模式（Abstract Factory Pattern）
 
 ## 結構型模式（Structural Patterns）
-- [ ] 裝飾器模式（Decorator Pattern）
-- [ ] 代理模式（Proxy Pattern）
-- [ ] 享元模式（Flyweight Pattern）
-- [ ] 橋接模式（Bridge Pattern）
+- [X] 裝飾器模式（Decorator Pattern）
+- [X] 代理模式（Proxy Pattern）
+- [X] 享元模式（Flyweight Pattern）
+- [X] 橋接模式（Bridge Pattern）
 - [ ] 外觀模式（Facade Pattern）
 - [ ] 組合模式（Composite Pattern）
+- [ ] 微服務模式（Microservices Pattern）
 
 ## 行為型模式（Behavioral Patterns）
 - [ ] 策略模式（Strategy Pattern）
@@ -28,7 +29,6 @@
 
 ## 其他模式
 - [ ] 模板方法模式（Template Method Pattern）
-- [ ] 複合模式（Composite Pattern）
 - [ ] 備忘錄模式（Memento Pattern）
 - [ ] 優先隊列模式（Priority Queue Pattern）
 - [ ] 空物件模式（Null Object Pattern）
@@ -43,6 +43,5 @@
 - [ ] 等待模式（Wait Pattern）
 - [ ] 信號模式（Signal Pattern）
 - [ ] 檢查模式（Checking Pattern）
-- [ ] 微服務模式（Microservices Pattern）
 - [ ] 容錯模式（Fault-Tolerant Pattern）
 - [ ] 管線模式（Pipeline Pattern）
