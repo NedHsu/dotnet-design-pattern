@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 使用範例
+Context context = new Context();
+context.Request();  // 輸出: HandleRequest in ConcreteStateA
+context.Request();  // 輸出: HandleRequest in ConcreteStateB
+context.Request();  // 輸出: HandleRequest in ConcreteStateA

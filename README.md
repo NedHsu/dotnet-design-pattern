@@ -12,12 +12,12 @@
 - [X] 代理模式（Proxy Pattern）
 - [X] 享元模式（Flyweight Pattern）
 - [X] 橋接模式（Bridge Pattern）
-- [ ] 外觀模式（Facade Pattern）
-- [ ] 組合模式（Composite Pattern）
-- [ ] 微服務模式（Microservices Pattern）
+- [X] 外觀模式（Facade Pattern）
+- [X] 組合模式（Composite Pattern）
+- [X] 微服務模式（Microservices Pattern）
 
 ## 行為型模式（Behavioral Patterns）
-- [ ] 策略模式（Strategy Pattern）
+- [X] 策略模式（Strategy Pattern）
 - [ ] 狀態模式（State Pattern）
 - [ ] 觀察者模式（Observer Pattern）
 - [ ] 命令模式（Command Pattern）
