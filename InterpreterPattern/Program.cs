@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 使用範例
+string expression = "2 + 3 - 4 * 5";
+IExpression parsedExpression = ExpressionParser.Parse(expression);
+int result = parsedExpression.Interpret();
+
+Console.WriteLine($"Expression: {expression}");
+Console.WriteLine($"Result: {result}");

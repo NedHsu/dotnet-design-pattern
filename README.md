@@ -22,10 +22,10 @@
 - [X] [觀察者模式（Observer Pattern）](ObserverPattern/README.md)
 - [X] [命令模式（Command Pattern）](CommandPattern/README.md)
 - [X] [中介者模式（Mediator Pattern）](MediatorPattern/README.md)
-- [ ] [解釋器模式（Interpreter Pattern）](InterpreterPattern/README.md)
-- [ ] [訪問者模式（Visitor Pattern）](VisitorPattern/README.md)
-- [ ] [迭代器模式（Iterator Pattern）](VisitorPattern/README.md)
-- [ ] [責任鏈模式（Chain of Responsibility Pattern）](Chain-of-ResponsibilityPattern/README.md)
+- [X] [解釋器模式（Interpreter Pattern）](InterpreterPattern/README.md)
+- [X] [訪問者模式（Visitor Pattern）](VisitorPattern/README.md)
+- [X] [迭代器模式（Iterator Pattern）](VisitorPattern/README.md)
+- [X] [責任鏈模式（Chain of Responsibility Pattern）](Chain-of-ResponsibilityPattern/README.md)
 
 ## 其他模式
 - [ ] [模板方法模式（Template Method Pattern）](TemplateMethodPattern/README.md)
