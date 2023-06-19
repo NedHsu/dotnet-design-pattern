@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// 使用範例
+SoupCookingTemplate soup = new TomatoSoup();
+soup.CookSoup();
