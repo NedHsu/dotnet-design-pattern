@@ -1,6 +1,6 @@
 ﻿SimplePizzaFactory factory = new SimplePizzaFactory();
 
-// 客戶點餐：芝士披薩
+// 客戶點餐：起司披薩
 Pizza cheesePizza = factory.CreatePizza("cheese");
 cheesePizza.Prepare();
 cheesePizza.Bake();
